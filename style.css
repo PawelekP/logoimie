@@ -1,5 +1,8 @@
-#logo{
+table{
   background-color: #a3f7e3;
+  width: 75%;
+}
+td{
   color: #9e1ff2;
   font-type: Arial;
   font-size: 23px;
